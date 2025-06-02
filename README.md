@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?text=Hi%20Dhyey%20here!%F0%9F%92%BB&animation=fadeIn&type=waving&color=gradient&height=120&fontSize=40&fontColor=fff&desc=A%20Passionate%20Learner%20from%20India&descSize=20&descAlignY=75)
-<h3 align="center">A Passionate Learner from India</h3>
+<h3 align="left">A Passionate Learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhyeyinf&label=Profile%20views&color=0e75b6&style=flat" alt="dhyeyinf" /> </p>
 
