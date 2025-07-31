@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=Hi%20Dhyey%20here!💻&animation=fadeIn&type=waving&color=gradient&height=100)
 <h3 align="left">A Passionate Learner from India</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhyeyinf&label=Profile%20views&color=0e75b6&style=flat" alt="dhyeyinf" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://dhyeyinf.github.io/dhyey323/](https://dhyeyinf.github.io/dhyey323/)
