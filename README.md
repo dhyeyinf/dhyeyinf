@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhyeyinf&label=Profile%20views&color=0e75b6&style=flat" alt="dhyeyinf" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://dhyeyinf.github.io/dhyey323/](https://dhyeyinf.github.io/dhyey323/)
+- 👨‍💻 All of my projects are available at [https://dhyeyfindoriya.vercel.app/](https://dhyeyfindoriya.vercel.app/)
 
 - 📫 How to reach me **b22ee024@iitj.ac.in**/ **findoriyadhyey@gmail.com**
 
