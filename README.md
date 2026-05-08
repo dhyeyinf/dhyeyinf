@@ -9,11 +9,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhyeyinf&show_icons=true&locale=en&layout=compact" alt="dhyeyinf" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhyeyinf&show_icons=true&locale=en" alt="dhyeyinf" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhyeyinf&show_icons=true&locale=en&layout=compact" alt="dhyeyinf" /></p>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
